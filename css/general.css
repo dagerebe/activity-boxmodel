@@ -39,19 +39,74 @@ body {
 
 .logo {
     height: 4.5rem;
+    width: auto;
+    margin: .5rem auto;
 }
 
+article {
+    margin: 0;
+    padding: 0 5%;
+    overflow: hidden;
+}
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+h1 {
+    font-family: frutiger, helvetica, sans-serif;
+    font-size: 2.3rem;
+    margin: 1rem auto;
+}
+
+h1 + p {
+    font-size: 1rem;
+    line-height: 1.1rem;
+    color: purple;
+}
+
+figure {
+    margin: 1rem auto;
+    width: 100%;
+}
+
+figcaption {
+    font-size: .75rem;
+    margin: .2rem 0;
+}
+
+h2 {
+    font-family: frutiger, helvetica, sans-serif;
+    font-size: 1.5rem;
+    margin: .5rem auto;
+}
+
+h3 {
+    font-family: frutiger, helvetica, sans-serif;
+    font-size: 1.1rem;
+    margin: .1rem auto;
+    color: purple
+}
+
+p {
+    font-size: .9rem;
+    line-height: .95rem;
+    margin: 2% 0 3% .8rem;
+}
+
+li {
+    margin: 1% 0 0 0;
+    font-size: .9rem;
+    line-height: .95rem;
+}
+
+footer {
+    background-color: pink;
+    overflow: hidden;
+}
+
+footer p {
+    font-size: .75rem;
+    color: white;
+    margin: .5rem 5% 4rem;
+}
+
+footer a {
+    color: white;
+}    
