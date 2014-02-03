@@ -19,9 +19,39 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 100%;
+    font-family: Garamond, Times, serif;
 }
 
 img {
 	width: 100%;
     display: block;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.masthead { 
+    background-color: pink;
+    overflow: hidden;
+}
+
+.logo {
+    height: 4.5rem;
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
